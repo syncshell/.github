@@ -7,7 +7,7 @@
 
 One Syncthing, every interface.
 
-Syncshell provides focused interfaces for controlling Syncthing from your
+Syncshell provides interfaces for controlling Syncthing from your
 desktop shell, browser, terminal, or desktop application.
 
 - [Website and documentation](https://syncshell.ai)
