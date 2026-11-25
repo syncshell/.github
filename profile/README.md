@@ -13,7 +13,7 @@ desktop shell, browser, terminal, or desktop application.
 Syncthing remains the synchronization engine. Syncshell supplies the form factors 
 around it.
 
-- [Website and documentation](https://syncshell.ai)
+- [Website and documentation](https://syncshell.io)
 - [Syncshell Web](https://github.com/syncshell/syncshell-webui)
 - [Omarchy plugin](https://github.com/omarchy-QOL/syncshell)
 
